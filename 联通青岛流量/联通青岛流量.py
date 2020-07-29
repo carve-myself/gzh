@@ -28,5 +28,5 @@ def run():
         print('剩余次数:{}; 60秒后进行发送'.format(2 - i))
         time.sleep(60)
 
-
+# https://wwe.lanzous.com/i27fAf0v0ub
 run()
